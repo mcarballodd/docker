@@ -12,6 +12,8 @@ RUN apt-get update \
 
 RUN apt-get install -y vim 
 
+RUN apt-get install -y nano
+
 EXPOSE 80
 
 WORKDIR /var/www/html
