@@ -1,6 +1,5 @@
-
 #Test modificación dockerfile
-# Test modificación dockerfile via github
+#Test modificación dockerfile via github
 FROM php:7-apache
 MAINTAINER commitea <armolinamilla@gmail.com>
 
